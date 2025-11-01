@@ -1,6 +1,6 @@
 # Git Cheat Sheet 🧠
 
- simple and quick reference guide for commonly used Git commands. Useful for beginners and developers who want a quick reminder of Git operations.
+A simple and quick reference guide for commonly used Git commands. Useful for beginners and developers who want a quick reminder of Git operations.
 
 ## 📁 Repository Structure
 
