@@ -17,6 +17,10 @@ This repository contains a list of essential Git commands categorized by use cas
 
 ## 🔧 Git Configuration
 
+
+abhay singh
+
+
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
