@@ -18,7 +18,7 @@ This repository contains a list of essential Git commands categorized by use cas
 ## 🔧 Git Configuration
 
 
-abh
+ab
 
 
 ```bash
