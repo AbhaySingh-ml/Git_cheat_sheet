@@ -1,4 +1,4 @@
-# Git Cheat Sheet 🧠 1 2
+# Git Cheat Sheet 🧠 1 2 3
 
 A simple and quick reference guide for commonly used Git commands. Useful for beginners and developers who want a quick reminder of Git operations.
 
